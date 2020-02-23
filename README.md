@@ -34,7 +34,6 @@ UI/UX design with Adobe XD(since 2018)
 <br>
 
 ## WORKS 🧑‍💻<br>
-#### ANCHOR⚓︎<br>
 coming soon...
 <br>
 

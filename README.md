@@ -29,7 +29,7 @@ PHP(Laravel), Ruby(RoR), Front-end were in my charge.<br>
 https://tech-camp.in/
 
 * Design<br>
-UI/UX design by Adobe XD(since 2018)
+UI/UX design with Adobe XD(since 2018)
 
 <br>
 

@@ -11,16 +11,14 @@ Android and iOS development has been my focus recently.<br>
 
 
 ### Tech experience
-* Swift<br>
-iOS development(since 2018)
-
-* Java<br>
-Android development(since 2020)
+* Mobile Development<br>
+Swift for iOS(since 2018),Java&Kotlin for Android development(since 2020).
 
 * C / C#<br>
 Occasionally used(created a password cracking tool in 2020, capable of cracking by dictionary attack)
 
-* Processing<br>
+* Web Development<br>
+PHP&Laravel, Ruby&Ruby on Rails(since 2016).
 
 ### Other experience
 * Education<br>

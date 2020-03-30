@@ -4,7 +4,7 @@
 
 ### About me
 
-Kenshiro Minami<br>
+Kenshiro Minami🐶<br>
 Born in Nagasaki city,JPN 1994.<br>
 I am a Software engineer and Data analyst.<br>
 

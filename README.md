@@ -1,41 +1,34 @@
 # self
 🐾Self introduction page.
 
-# Kenshiro Minami
+## ABOUT ME🐾<br>
 
-## ABOUT 🐾<br>
+### About
 
-### About me
+南 健士郎🐶<br>
+1994.03.28生まれ.<br>
+長崎県長崎市出身.<br>
+同志社大学法学部中退.<br>
 
-Kenshiro Minami🐶<br>
-Born in Nagasaki city,JPN 1994.<br>
-I am a Software engineer and Data analyst.<br>
+### Skill
+
+* 実務使用<br>
+Java,PHP,MySQL,PostgreSQL,HTML,CSS,JavaScript
+
+* プライベート<br>
+Go,Python
 
 
-### Tech experience
-* Data Analysis<br>
-Data Science, Data Analysis with Python.
-
-* Mobile Development<br>
-Swift for iOS(since 2018),Java&Kotlin for Android development(since 2020).
-
-* Web Development<br>
-PHP&Laravel, Ruby&Ruby on Rails(since 2016).
-
-* C / C#<br>
-Occasionally used(created a password cracking tool in 2020, capable of cracking by dictionary attack)
-
-### Other experience
-* Education<br>
-Lecture about software development in TECH::CAMP.<br>
-PHP(Laravel), Ruby(RoR), Front-end were in my charge.<br>
-https://tech-camp.in/
+### 経歴
+* 株式会社div<br>
+TECH::CAMPメンター.<br>
+法人研修事業担当メンターとしてPHP(Laravel)の教育を担当.<br>
+https://tech-camp.in/<br>
 <br>
 
-## WORKS 🧑‍💻<br>
-coming soon...
+* 株式会社LSi<br>
+企業の基幹系システム(ERP)の受託開発.<br>
 <br>
-
 
 ## Social Media ☘️<br>
 Wantedly<br>

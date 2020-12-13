@@ -18,12 +18,13 @@ Go,Python
 
 ### 経歴
 * 株式会社div<br>
-TECH::CAMPメンター.<br>
-法人研修事業担当メンターとしてPHP(Laravel)の教育を担当.<br>
+TECH::CAMPメンター / 東京1チームサブリーダー<br>
+法人研修メンターとしてPHP(Laravel)の研修を担当.<br>
+その他、テクノロジー系セミナーの開催など.<br>
 https://tech-camp.in/<br>
 
 * 株式会社LSi<br>
-企業の基幹系システム(ERP)の受託開発.<br>
+企業の業務基幹系システム(ERP)の受託開発.<br>
 
 ## Social Media ☘️<br>
 Wantedly<br>

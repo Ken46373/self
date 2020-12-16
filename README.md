@@ -11,18 +11,18 @@
 
 **Working with:**
 
-<a href="https://www.drupal.org/" title="Java"><img src="icons/java.png" /></a>
-<a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
-<a href="https://www.mysql.com/" title="PostgreSQL"><img src="icons/postgresql.png" /></a>
-<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
-<a href="https://code.visualstudio.com/" title="Eclipse"><img src="icons/eclipse.png" /></a>
-<a href="https://github.com/" title="GitHub"><img src="icons/tortoisesvn.png" /></a>
-<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
+<img src="icons/java.png" title="Java"/>
+<img src="icons/php.png" title="PHP"/>
+<img src="icons/javascript.png" title="JavaScript"/>
+<img src="icons/postgre.png" title="PostgreSQL"/>
+<img src="icons/mysql.png" title="MySQL"/>
+<img src="icons/vscode.png" title="VSCode"/>
+<img src="icons/eclipse.png" title="Eclipse"/>
+<img src="icons/tortoisesvn.png" title="TortoiseSVN"/>
+<img src="icons/github.png" title="GitHub"/>
 
 **Learning:**
 
-<a href="https://golang.org/" title="Golang"><img src="icons/golang.png" /></a>
-<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
-<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
+<img src="icons/golang.png" title="Golang"/>
+<img src="icons/python.png" title="Python"/>
+<img src="icons/typescript.png" title="TypeScript"/>

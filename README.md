@@ -11,18 +11,18 @@
 
 **Working with:**
 
-[![java](icons/java.png)]()
-[![PHP](icons/php.png)]()
-[![JavaScript](icons/javascript.png)]()
-[![PostgreSQL](icons/postgre.png)]()
-[![MySQL](icons/mysql.png)]()
-[![VSCode](icons/vscode.png)]()
-[![Eclipse](icons/eclipse.png)]()
-[![TortoiseSVN](icons/tortoisesvn.png)]()
-[![GitHub](icons/github.png)]()
+![java](icons/java.png)
+![PHP](icons/php.png)
+![JavaScript](icons/javascript.png)
+![PostgreSQL](icons/postgre.png)
+![MySQL](icons/mysql.png)
+![VSCode](icons/vscode.png)
+![Eclipse](icons/eclipse.png)
+![TortoiseSVN](icons/tortoisesvn.png)
+![GitHub](icons/github.png)
 
 **Learning:**
 
-[![Golang](icons/golang.png)]()
-[![Python](icons/python.png)]()
-[![TypeScript](icons/typescript.png)]()
+![Golang](icons/golang.png)
+![Python](icons/python.png)
+![TypeScript](icons/typescript.png)

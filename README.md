@@ -1,7 +1,6 @@
 ### Kenshiro Minami 🐾
 
 [![Wantedly](https://img.shields.io/badge/Wantedly-v.2020-ff7964.svg?style=for-the-badge)](https://www.wantedly.com/users/21969437)
-
 <br>
 
 ### Repository Summary 🚀

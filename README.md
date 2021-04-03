@@ -6,7 +6,7 @@
 
 **Working with:**
 
-![java](icons/java.png)
+![Java](icons/java.png)
 ![PHP](icons/php.png)
 ![JavaScript](icons/javascript.png)
 ![PostgreSQL](icons/postgre.png)
@@ -19,5 +19,4 @@
 **Learning:**
 
 ![Golang](icons/golang.png)
-![Python](icons/python.png)
 ![TypeScript](icons/typescript.png)

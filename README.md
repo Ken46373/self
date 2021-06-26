@@ -6,17 +6,11 @@
 
 **Working with:**
 
-![Java](icons/java.png)
+![Flutter](icons/flutter.png)
 ![PHP](icons/php.png)
+![Java](icons/java.png)
 ![JavaScript](icons/javascript.png)
 ![PostgreSQL](icons/postgre.png)
 ![MySQL](icons/mysql.png)
 ![VSCode](icons/vscode.png)
-![Eclipse](icons/eclipse.png)
-![TortoiseSVN](icons/tortoisesvn.png)
 ![GitHub](icons/github.png)
-
-**Learning:**
-
-![Golang](icons/golang.png)
-![TypeScript](icons/typescript.png)

@@ -8,7 +8,6 @@
 
 ![Flutter](icons/flutter.png)
 ![PHP](icons/php.png)
-![Java](icons/java.png)
 ![JavaScript](icons/javascript.png)
 ![PostgreSQL](icons/postgre.png)
 ![MySQL](icons/mysql.png)
